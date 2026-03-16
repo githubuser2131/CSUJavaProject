@@ -1,4 +1,4 @@
-public class main {
+public class resturantscript {
     public static void main(String[] args) {
         System.out.println("Vinny's Italian Grill"); //Name
         System.out.println("397 Garrisonville Rd"); //Address
